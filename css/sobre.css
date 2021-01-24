@@ -1,0 +1,47 @@
+body {
+    width: 940px;
+    font-family: "Helvetica", "Lucida Grande", sans-serif;
+    color: #3D3D3D;
+    margin: 0 auto;
+}
+
+.titulo {
+    background-color: #e1edf2;
+    padding: 10px;
+    font-size: 32px;
+}
+
+.subtitulo {
+    border-bottom: 2px solid black;
+}
+
+figure {
+    text-align: center;
+    background-color: whitesmoke;
+    border: 1px solid lightgray;
+    padding: 15px;
+    margin: 30px;
+}
+
+figcaption {
+    padding-top: 10px;
+}
+
+a {
+    background-color: lightgray;
+}
+
+.matriz-musicdot {
+    width: 550px;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.familia-tupfeln {
+    width: 275px;
+    float: right;
+}
+
+figure img {
+    width: 100%;
+}
